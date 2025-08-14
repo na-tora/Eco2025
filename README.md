@@ -36,3 +36,4 @@ Resultados
 Conclusiones
 Bibliografía
 [foto 1](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/google-fotos.jpg?tf=3840x)
+![alt text](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/google-fotos.jpg?tf=3840x)
